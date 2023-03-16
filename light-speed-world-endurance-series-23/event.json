@@ -9,7 +9,7 @@
     "trackTemp": 22,
     "cloudLevel": 0.3,
     "rain": 0.2,
-    "weatherRandomness": 2,
+    "weatherRandomness": 3,
     "configVersion": 1,
     "sessions": [
         {
